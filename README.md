@@ -4,6 +4,8 @@
 
 <h1 align="center">MathAlgo Skills</h1>
 
+<p align="center"><b>English</b> · <a href="README.vi.md">Tiếng Việt</a></p>
+
 <p align="center">
   <b>Agent skills that think like a skeptical senior engineer.</b><br>
   Problem first. Boring tech first. Drawbacks always.
@@ -185,6 +187,7 @@ The rule of three: explained the same thing to an agent three times? It becomes 
 - [ ] At least one rule about drawbacks or failure modes
 - [ ] Listed in the bucket `README.md` and, if promoted, here (and bump the skill count badge)
 - [ ] `start-here` updated if it changes a flow
+- [ ] Vietnamese twin `SKILL.vi.md` (and `README.vi.md` entries) in sync
 - [ ] `bash scripts/link-skills.sh`
 
 Full rules live in [CLAUDE.md](CLAUDE.md).

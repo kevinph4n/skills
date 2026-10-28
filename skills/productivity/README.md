@@ -1,5 +1,7 @@
 # productivity
 
+**English** · [Tiếng Việt](README.vi.md)
+
 Non-code work: ideas, research, planning.
 
 ## Model-invoked

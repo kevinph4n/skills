@@ -1,3 +1,5 @@
+> Vietnamese version: [CLAUDE.vi.md](CLAUDE.vi.md)
+
 # skills repo
 
 Personal agent skills. This repo is the single source of truth for everything in the Claude Code skills directory and the global CLAUDE.md.
@@ -39,6 +41,12 @@ Edit global instructions in `global/CLAUDE.md` only. The copy in the config fold
 - Every skill has at least one rule about drawbacks or failure modes.
 - Skills that produce project state write it to `docs/` (`idea.md`, `stack.md`, `progress.md`) so later sessions can resume.
 - When a skill misbehaves in real use, fix the `SKILL.md` and commit. Don't just correct it in chat.
+
+## Translations
+- English files are the source of truth. Every `.md` file has a Vietnamese twin next to it: `README.md` / `README.vi.md`, `SKILL.md` / `SKILL.vi.md`, `CLAUDE.md` / `CLAUDE.vi.md`.
+- Any change to an English file updates its `.vi.md` twin in the same commit. A twin that says something different is a bug.
+- Agents load only `SKILL.md` and `CLAUDE.md`. The `.vi.md` files are for humans; never put instructions only in them.
+- Each pair links to the other at the top (`English · Tiếng Việt`). `SKILL.vi.md` and `CLAUDE.vi.md` files start with a note pointing to the English file. Exception: `global/CLAUDE.md` has no link line, because it gets copied into the config folder where the link would break.
 
 ## Commits
 - Never add Co-Authored-By or any AI attribution.
