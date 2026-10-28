@@ -1,0 +1,10 @@
+# engineering
+
+Building software: choosing a stack, building it, checking it.
+
+## User-invoked
+- [tech-stack-workflow](tech-stack-workflow/SKILL.md): build a project phase by phase
+
+## Model-invoked
+- [tech-stack-rec](tech-stack-rec/SKILL.md): recommend a proven core stack, niche tech only when justified
+- [tech-validate](tech-validate/SKILL.md): audit a stack before building, quiz the user after finishing
