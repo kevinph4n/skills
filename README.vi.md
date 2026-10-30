@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-skills-7c3aed?style=for-the-badge" alt="Claude Code skills">
-  <img src="https://img.shields.io/badge/skills-7-16a34a?style=for-the-badge" alt="7 skills">
+  <img src="https://img.shields.io/badge/skills-8-16a34a?style=for-the-badge" alt="8 skills">
   <img src="https://img.shields.io/badge/Windows-Git_Bash-3b30c8?style=for-the-badge" alt="Windows + Git Bash">
 </p>
 
@@ -103,6 +103,7 @@ Build phần mềm: chọn stack, build, chứng minh mình hiểu nó.
 
 | Skill | Làm gì | Ghi vào |
 |---|---|---|
+| [front-end-design](skills/engineering/front-end-design/SKILL.vi.md) | Thiết kế giao diện có cá tính, không bị nhìn ra là AI làm | `docs/design.md` |
 | [tech-stack-rec](skills/engineering/tech-stack-rec/SKILL.vi.md) | Gợi ý core stack đã kiểm chứng, công nghệ niche chỉ khi có lý do | `docs/stack.md` |
 | [tech-validate](skills/engineering/tech-validate/SKILL.vi.md) | Audit stack trước khi build, hỏi lại m sau khi xong | |
 

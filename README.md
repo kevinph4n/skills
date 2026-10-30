@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-skills-7c3aed?style=for-the-badge" alt="Claude Code skills">
-  <img src="https://img.shields.io/badge/skills-7-16a34a?style=for-the-badge" alt="7 skills">
+  <img src="https://img.shields.io/badge/skills-8-16a34a?style=for-the-badge" alt="8 skills">
   <img src="https://img.shields.io/badge/Windows-Git_Bash-3b30c8?style=for-the-badge" alt="Windows + Git Bash">
 </p>
 
@@ -103,6 +103,7 @@ Building software: choose a stack, build it, prove you understand it.
 
 | Skill | What it does | Writes to |
 |---|---|---|
+| [front-end-design](skills/engineering/front-end-design/SKILL.md) | Designs distinctive UI that does not look AI-generated | `docs/design.md` |
 | [tech-stack-rec](skills/engineering/tech-stack-rec/SKILL.md) | Recommends a proven core stack, niche tech only when justified | `docs/stack.md` |
 | [tech-validate](skills/engineering/tech-validate/SKILL.md) | Audits the stack before building, quizzes you after finishing | |
 

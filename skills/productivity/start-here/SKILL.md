@@ -11,6 +11,7 @@ New idea: idea-hunt -> idea-validate -> idea-stress-test -> tech-stack-rec -> te
 - Validated idea already: start at tech-stack-rec
 - Stack chosen, ready to build: /tech-stack-workflow
 - Project finished: tech-validate (part 2)
+- Any UI work (new page, redesign, "make it look better"): front-end-design, also during /tech-stack-workflow phases that touch the frontend
 
 # Skills
 | Skill | Use when | Invocation |
@@ -21,6 +22,7 @@ New idea: idea-hunt -> idea-validate -> idea-stress-test -> tech-stack-rec -> te
 | tech-stack-rec | choosing what to build with | model |
 | tech-validate | audit a stack, or quiz the user after finishing | model |
 | tech-stack-workflow | building the project phase by phase | user only (/tech-stack-workflow) |
+| front-end-design | designing or restyling any UI | model |
 
 # Steps
 1. If inside a project, read `docs/idea.md`, `docs/stack.md`, `docs/progress.md` to see where the user is.

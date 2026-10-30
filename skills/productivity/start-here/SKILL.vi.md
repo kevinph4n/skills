@@ -13,6 +13,7 @@ Idea mới: idea-hunt -> idea-validate -> idea-stress-test -> tech-stack-rec -> 
 - Đã có idea được validate: bắt đầu từ tech-stack-rec
 - Đã chọn stack, sẵn sàng build: /tech-stack-workflow
 - Project đã xong: tech-validate (phần 2)
+- Mọi việc về giao diện (trang mới, redesign, "làm cho đẹp hơn"): front-end-design, kể cả trong các phase của /tech-stack-workflow có đụng tới frontend
 
 # Skills
 | Skill | Dùng khi | Cách gọi |
@@ -23,6 +24,7 @@ Idea mới: idea-hunt -> idea-validate -> idea-stress-test -> tech-stack-rec -> 
 | tech-stack-rec | đang chọn công nghệ để build | model |
 | tech-validate | audit stack, hoặc hỏi lại user sau khi xong | model |
 | tech-stack-workflow | build project theo từng phase | chỉ user (/tech-stack-workflow) |
+| front-end-design | thiết kế hoặc làm lại giao diện | model |
 
 # Các bước
 1. Nếu đang trong một project, đọc `docs/idea.md`, `docs/stack.md`, `docs/progress.md` để biết user đang ở đâu.
